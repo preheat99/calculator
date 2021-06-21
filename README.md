@@ -1,0 +1,1 @@
+This is a basic calculator. This calculator follows left to right order of opertions and BODMAS
